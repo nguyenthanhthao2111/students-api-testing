@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "location": "New York",
+      "phone": "555-123-4567",
+      "courses": [
+        "Mathematics",
+        "History"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "location": "Los Angeles",
+      "phone": "555-987-6543",
+      "courses": [
+        "Science",
+        "English"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Robert Johnson",
+      "location": "Chicago",
+      "phone": "555-555-5555",
+      "courses": [
+        "Computer Science",
+        "Physics"
+      ]
+    },
+    {
+      "name": "Wright Night",
+      "location": "Chicago",
+      "phone": "421-332-4567-234",
+      "courses": [
+        "History",
+        "Physics"
+      ],
+      "id": 7
+    },
+    {
+      "name": "Wright Night",
+      "location": "Chicago",
+      "phone": "421-332-4567-234",
+      "courses": [
+        "History",
+        "Physics"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Wright Night",
+      "location": "Chicago",
+      "phone": "421-332-4567-234",
+      "courses": [
+        "History",
+        "Physics"
+      ],
+      "id": 9
+    }
+  ]
+}
